@@ -111,16 +111,16 @@
 		09B4CD992243356D008FC661 /* AnimationTransitionSwift */ = {
 			isa = PBXGroup;
 			children = (
-				09B4CDD62243367D008FC661 /* Main.storyboard */,
 				09B4CDCC224335E2008FC661 /* aaa.jpg */,
 				09B4CDC9224335E2008FC661 /* bbb.jpg */,
-				09B4CDCD224335E2008FC661 /* FromVC.swift */,
-				09B4CDCE224335E2008FC661 /* SliderMidVC.swift */,
-				09B4CDCA224335E2008FC661 /* SliderVC.swift */,
-				09B4CDCB224335E2008FC661 /* ToVC.swift */,
-				09B4CDC8224335E2008FC661 /* TransitionAnim.swift */,
 				09B4CD9A2243356D008FC661 /* AppDelegate.swift */,
 				09B4CD9C2243356D008FC661 /* ViewController.swift */,
+				09B4CDC8224335E2008FC661 /* TransitionAnim.swift */,
+				09B4CDCE224335E2008FC661 /* SliderMidVC.swift */,
+				09B4CDCA224335E2008FC661 /* SliderVC.swift */,
+				09B4CDCD224335E2008FC661 /* FromVC.swift */,
+				09B4CDCB224335E2008FC661 /* ToVC.swift */,
+				09B4CDD62243367D008FC661 /* Main.storyboard */,
 				09B4CDA12243356E008FC661 /* Assets.xcassets */,
 				09B4CDA32243356E008FC661 /* LaunchScreen.storyboard */,
 				09B4CDA62243356E008FC661 /* Info.plist */,
